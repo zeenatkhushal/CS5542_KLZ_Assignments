@@ -1,0 +1,3 @@
+cat
+strawberry
+umbrella
